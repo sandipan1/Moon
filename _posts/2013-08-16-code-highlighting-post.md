@@ -114,8 +114,9 @@ module Jekyll
 end
 ~~~
 
+{% gist mmistakes/6589546 %}
 ### GitHub Gist Embed
 
 An example of a Gist embed below.
+<script src="https://gist.github.com/mmistakes/77c68fbb07731a456805a7b473f47841.js"></script>
 
-{% gist mmistakes/6589546 %}
